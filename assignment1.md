@@ -34,11 +34,30 @@ Danielle Adusei
 
 * Execution: Clear and concise all throughout the article. Uses data to strengthen their claims while using real peoples quotes to make the article feel more personal to the residents in DC.
 
-# Short Pitch
-
-
 * Improvement: Using charts, bar plots, and other visual statistics to make their evidence more visual for the reader to understand.
 
 **Creativity 2/5**
 
-* Effectiveness: Lack of creativity. Only used some visuals and a video to highlight the article. 
+* Effectiveness: Lack of creativity. Only used some visuals and a video to highlight the article.
+
+# Letter to Editor
+
+Dear Josh Kaplan,
+
+The article “ Thousands Of D.C. Renters Are Evicted Every Year. Do They All Know To Show Up To Court?” was very insightful. The article discusses the reality of evictions in DC and how residents don't know their basic rights when it comes to evictions from their homes. 
+
+Despite this story being written in 2020, it still holds up in accuracy today. With the rate of homelessness going up, the residents in DC still face evictions every day without proper notice. 
+
+A problem that readers may have with this article is the lack of visual statistics. With the written statistics stated in the article it makes the article too wordy, which will cause readers to not be able to finish the article. Some graphs of how many people have been affected by evictions between the years of 2015 to 2020 will be helpful to readers to see the visual aspect of the problem you're presenting. 
+
+There's no specific number of how many homeless shelters there are in DC, but visiting one and interviewing the owner could give you a clear depiction of how many people go to homeless shelters yearly.
+
+For the people who may be struggling with their homes and are facing eviction, directing them to the Department of Human Services (DHS) could serve as a helpful aspect in your article.
+
+Thank you for bringing attention to evictions and the rising rate of homelessness in the DC area. For DC being the state capital, people outside of DC rarely hear the more human aspect of the city.
+
+Sincerely,
+
+Danielle Adusei
+
+
