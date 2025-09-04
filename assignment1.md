@@ -2,7 +2,7 @@
 
 Danielle Adusei
 
-**Clarity and Accuracy**
+([http://www.linkurl.com](https://dcist.com/story/20/10/05/thousands-of-d-c-renters-are-evicted-every-year-do-they-all-know-to-show-up-to-court/))
 
 # Critique
 
@@ -33,6 +33,9 @@ Danielle Adusei
 **Quality 4/5**
 
 * Execution: Clear and concise all throughout the article. Uses data to strengthen their claims while using real peoples quotes to make the article feel more personal to the residents in DC.
+
+# Short Pitch
+
 
 * Improvement: Using charts, bar plots, and other visual statistics to make their evidence more visual for the reader to understand.
 
